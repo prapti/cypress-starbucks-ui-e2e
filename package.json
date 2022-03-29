@@ -1,0 +1,23 @@
+{
+  "name": "cypress-starbuck-ui-e2e",
+  "version": "1.0.0",
+  "description": "Example of automating UI E2E test for Starbuck functionality with Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prapti/cypress-starbuck-ui-e2e.git"
+  },
+  "author": "prapti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prapti/cypress-starbuck-ui-e2e/issues"
+  },
+  "homepage": "https://github.com/prapti/cypress-starbuck-ui-e2e#readme",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.5.2"
+  }
+}
